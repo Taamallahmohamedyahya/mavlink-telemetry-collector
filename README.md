@@ -21,6 +21,7 @@ A Python-based MAVLink UDP collector for telemetry monitoring and anomaly detect
 git clone https://github.com/Taamallahmohamedyahya/mavlink-telemetry-collector.git
 cd mavlink-telemetry-collector
 pip install -r requirements.txt
+```
 
 
 ## Usage
@@ -35,7 +36,7 @@ Share WiFi or Ethernet from your SkyDroid controller and connect your Windows PC
 - Run:
   ```bash
   ipconfig
-
+  ```
 
 ## ⚠️ Dashboard Access
 
