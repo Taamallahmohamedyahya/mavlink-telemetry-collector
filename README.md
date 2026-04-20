@@ -1,6 +1,6 @@
 # MAVLink Telemetry Collector
 
-A Python-based MAVLink UDP collector for telemetry monitoring and anomaly detection.
+A Python-based MAVLink UDP collector for telemetry monitoring.
 
 ## Features
 - MAVLink 2 support
