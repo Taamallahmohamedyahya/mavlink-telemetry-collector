@@ -1,10 +1,13 @@
 # MAVLink Telemetry Collector
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-passing-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/Python-3.10-yellowgreen)
-![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.9%2B-yellowgreen)
+![MAVLink](https://img.shields.io/badge/MAVLink-2-informational)
+![Telemetry](https://img.shields.io/badge/Telemetry-UDP-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
+A Python-based MAVLink UDP collector for telemetry monitoring.
 
 ## Features
 - MAVLink 2 support
